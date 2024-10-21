@@ -37,6 +37,9 @@ I started and finished this project in February 2024.
 # clone repo
 git clone https://github.com/BrightNeon7631/odin-basic-informational-site.git
 
+# install project dependencies
+npm install
+
 # start server
 node app.js
 ```
